@@ -163,11 +163,3 @@ MindVerse — One Codebase. Infinite Possibilities.
 
 ---
 
-# 🚀 Now run these commands
-
-After replacing README:
-
-```bash
-git add .
-git commit -m "Fixed README conflict"
-git push -u origin mains
